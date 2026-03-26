@@ -5,8 +5,8 @@ Watey is a web application that will help me track how much water I am drinking 
 ## tech stack
 
 Frontend: React / TypeScript
-Backend: Python
-Database: postgres
+Backend: Supabase
+Database: PostgreSQL (Supabase)
 Deployment: vercel + railway
 
 ## Functionality
